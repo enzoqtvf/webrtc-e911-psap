@@ -13,9 +13,7 @@ var configuration = {
   register: true
 };
 
-// Used to parse the xml and fill the location
-//var attributes=["country", "A1", "A2", "A6", "PRD", "STS", "HNO", "LOC", "FLR", "ROOM", "PLC"];
-//var location = {"country":"", "A1":"", "A2":"", "A6":"", "PRD":"", "STS":"", "HNO":"", "LOC":"", "FLR":"", "ROOM":"", "PLC":""};
+
 
 
 
